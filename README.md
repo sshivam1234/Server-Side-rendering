@@ -37,8 +37,8 @@ ssr-react-app/
 Installation
 1. Clone the Repository
 2. Install Dependencies (npm install)
-3. Running the Project (1. npm run dev 2. npm run build)
-4. Start Production Server (npm start)
+3. Running the Project (1. npm run build)
+4. Start Production Server (node build/server.js)
    
 How SSR Works in This Project
 1. User requests page → Express server handles request.
