@@ -1,5 +1,5 @@
 SSR React App (Server-Side Rendering with Express)
-  A simple Server-Side Rendered (SSR) React application built using React.js, Express.js, and MongoDB.
+  A simple Server-Side Rendered (SSR) React application built using React.js, Express.js.
   The project demonstrates SEO-friendly rendering, API integration, and client-side hydration.
 
 
