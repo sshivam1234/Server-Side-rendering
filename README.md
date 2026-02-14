@@ -6,11 +6,10 @@ SSR React App (Server-Side Rendering with Express)
 Features
   1.  Server-Side Rendering using ReactDOMServer
   2.  Express.js backend
-  3.  MongoDB database integration
-  4.  API endpoint for dynamic data
-  5.  Client-side hydration
-  6.  SEO-friendly initial HTML
-  7.  Webpack/Babel bundling support
+  3.  API endpoint for dynamic data
+  4.  Client-side hydration
+  5.  SEO-friendly initial HTML
+  6.  Webpack/Babel bundling support
      
 Tech Stack
   Frontend
